@@ -4,7 +4,7 @@ public class Class6 {
 
 	public static void main(String[] args) {
 		Class6Ex c = new Class6Ex();
-		c.setName("엄");
+		c.setName("홍길동");
 		c.setAge(13);
 		c.setHeight(166);
 		
